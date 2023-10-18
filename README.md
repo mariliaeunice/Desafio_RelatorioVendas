@@ -14,8 +14,7 @@ O relatório de vendas é baseado na sample disponibilizada pela Microsoft no pr
 
 📄 Página 2 (Lucro)
 
-📊 Gráficos:
-Gráficos: 
+📊 Gráficos: 
 - Árvore Hierárquica de análise de lucro por ano e país;
 - Radar chart de lucro total por produto;
 - Treemap de lucro % por segmento;
