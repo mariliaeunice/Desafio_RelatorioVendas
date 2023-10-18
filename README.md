@@ -15,7 +15,7 @@ O relatório de vendas é baseado na sample disponibilizada pela Microsoft no pr
 📄 Página 2 (Lucro)
 
 📊 Gráficos: 
-- Árvore Hierárquica de análise de lucro por ano e país;
-- Radar chart de lucro total por produto;
-- Treemap de lucro % por segmento;
-- Gráficos de Lucro por Trimestre;
+- Árvore Hierárquica: Análise de Lucro por Ano e País;
+- Radar chart: Lucro Total por Produto;
+- Treemap: Lucro por Segmento;
+- Gráfico de Cascata: Lucro por Trimestre;
